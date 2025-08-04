@@ -22,3 +22,4 @@ Monday (1 - 2:30pm)
 # Summary
 Alan - During this week's task, the team and I began by assessing our knowledge of Git and the commands commonly used. Then we moved on to discussing our answers and justifying why. Soon after, we began the assigned group task by initializing a repository where the group could store all our work in one place.
 
+Kirthika: Completed the IRAT and discussed results with group mates, as well as, discussing the answers as a class (TRAT).In the application stage, I worked on installing git onto my laptop.  
