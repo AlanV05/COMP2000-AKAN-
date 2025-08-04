@@ -1,7 +1,6 @@
-# COMP2000-AKAN-
+# COMP2000-AKAN-  
 
-# topic list
-class # content and skills  
+# topic list & Content
 1 Team Based Learning  
 2 Version Control  
 3 Objects and Classes  
@@ -15,3 +14,9 @@ class # content and skills
 11 Streams    
 12 Streams    
 13 tbd  
+
+# Availability. 
+  
+Monday (1 - 2:30pm)  
+
+# Summary
